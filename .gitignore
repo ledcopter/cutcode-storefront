@@ -1,0 +1,4 @@
+app/Config.php
+vendor/
+.timetracker
+.DS_Store

@@ -1,0 +1,4 @@
+name: shop-php
+recipe: lamp
+config:
+  webroot: .
